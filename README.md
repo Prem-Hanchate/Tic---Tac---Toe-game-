@@ -20,7 +20,7 @@ Two players take turns marking `X` and `O` on a **3x3 grid**. The first player t
 ### Steps
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/Prem-Hanchate/tic-tac-toe-cpp.git
+   https://github.com/Prem-Hanchate/Tic---Tac---Toe-game-/tree/main
 
 ### Author
 - Prem Hanchate  
